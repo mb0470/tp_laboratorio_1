@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1554506633 source:c:\users\abc\documents\programación\laboratorio de informática i\tp 1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Operaciones/operaciones.h"
+
+1554507312 c:\users\abc\documents\programación\laboratorio de informática i\tp 1\operaciones\operaciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554507315 source:c:\users\abc\documents\programación\laboratorio de informática i\tp 1\operaciones\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+
